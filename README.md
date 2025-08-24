@@ -51,7 +51,7 @@ tic-tac-toe/
 ## 👤 Author
   **GOURAV_BERWAL** 
 - GitHub: [@GouravBerwal](https://github.com/GouravBerwal)  
-- LinkedIn: [Gourav_Berwal](linkedin.com/in/gourav-berwal-7853a32b7)   
+- LinkedIn: [gouravberwal](linkedin.com/in/gouravberwal)   
 
 ---
 
